@@ -1,0 +1,61 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.bg
+{
+    background-image: url('/src/image/banner.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.student
+{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 50%;
+}
+
+h1
+{
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+.name
+{
+    padding: 10px;
+    padding-left: 20%;
+}
+
+input
+{
+    width: 80%;
+    padding: 10px;
+}
+
+label
+{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+
+.btn
+{
+    background-color: rgb(12, 191, 197);
+    border: none;
+    color: black;
+    font-weight: bolder;
+}
